@@ -1,0 +1,13 @@
+name: ItemDurability
+main: aydin\ItemDurability
+api: 4.0.0
+version: 1
+
+commands:
+ esyacan:
+  description: "Eşyanınız kalan can istatistiğini açar"
+  permission: "esya.can"
+  
+permissions:
+ esya.can:
+  default: true
